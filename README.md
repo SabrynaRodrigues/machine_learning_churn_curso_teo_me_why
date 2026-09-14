@@ -158,7 +158,3 @@ Todo o mérito do material didático é do professor e do canal.
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Em%20estudo-4CAF50?style=for-the-badge" />
-</p>
