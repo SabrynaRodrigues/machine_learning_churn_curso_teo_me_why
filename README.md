@@ -152,7 +152,7 @@ Conteúdo baseado no curso gratuito do canal **Tell Me Why** no YouTube.
 Todo o mérito do material didático é do professor e do canal.
 
 <p>
-  <a href="https://www.youtube.com/watch?v=iWFBeR552Hc&list=PLvlkVRRKOYFR6_LmNcJliicNan2TYeFO2&index=24">
+  <a href="https://www.youtube.com/watch?v=oz_rZ92Tmls&list=PLvlkVRRKOYFR6_LmNcJliicNan2TYeFO2&index=1">
     <img src="https://img.shields.io/badge/YouTube-Curso%20de%20Machine%20Learning-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
