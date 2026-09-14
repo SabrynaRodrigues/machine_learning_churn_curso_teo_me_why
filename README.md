@@ -1,4 +1,4 @@
-<h1 align="center">Machine Learning — Curso Tell Me Why</h1>
+<h1 align="center">Machine Learning — Curso Téo Me Why</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -148,7 +148,7 @@ um modelo de previsão de churn:
 
 ## Créditos
 
-Conteúdo baseado no curso gratuito do canal **Tell Me Why** no YouTube.
+Conteúdo baseado no curso gratuito do canal **Téo Me Why** no YouTube.
 Todo o mérito do material didático é do professor e do canal.
 
 <p>
